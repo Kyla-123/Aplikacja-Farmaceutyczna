@@ -1,0 +1,4 @@
+doctor_number,patient_id,drug_name,quantity,date
+12345,2,nurofen,250 mg,2024-06-10 19:52:51
+12345,1,exit,exit,2024-06-10 19:53:02
+12345,2,Nurofen,150,2024-06-10 20:11:57
